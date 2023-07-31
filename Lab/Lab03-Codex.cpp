@@ -35,6 +35,6 @@ int main () {
         printf("%52s %11.2f\n", "TOTAL AMOUNT : ",TotalAmount);
         printf("Enter customer name [QUIT to stop] : ");
         scanf("%s",CustomerName) ;
-    }//end for
+    } //end for
     return 0 ;
-}// end main function
+} // end main function
